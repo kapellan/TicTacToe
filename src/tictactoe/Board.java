@@ -5,11 +5,9 @@
 package tictactoe;
 
 import javax.swing.*;
-
 import java.awt.*;
 
 import static java.awt.Color.*;
-import static tictactoe.Cell.Figure.*;
 
 /**
  * @author Kapellan

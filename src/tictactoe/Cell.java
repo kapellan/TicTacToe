@@ -9,7 +9,6 @@ import static tictactoe.Cell.Status.BARRIER;
 import static tictactoe.Cell.Status.WINNER;
 
 /**
- *
  * @author Kapellan
  */
 public class Cell {
@@ -23,6 +22,7 @@ public class Cell {
 
         BARRIER, WINNER;
     }
+
     int X;
     int Y;
     Figure figure;

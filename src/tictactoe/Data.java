@@ -1,12 +1,12 @@
 package tictactoe;
 
-import java.awt.Dimension;
+import java.awt.*;
 import java.util.ArrayList;
+
 import static tictactoe.Cell.Figure.FREE;
 import static tictactoe.Data.Strategy.*;
 
 /**
- *
  * @author Kapellan
  */
 public class Data {
