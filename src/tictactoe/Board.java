@@ -4,13 +4,14 @@
  */
 package tictactoe;
 
-import static java.awt.Color.*;
-import java.awt.*;
 import javax.swing.*;
+
+import java.awt.*;
+
+import static java.awt.Color.*;
 import static tictactoe.Cell.Figure.*;
 
 /**
- *
  * @author Kapellan
  */
 public class Board extends JComponent {
